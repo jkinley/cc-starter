@@ -20,12 +20,9 @@ content_blocks:
   - _bookshop_name: global/page-bg
     background_image: /images/backgrounds/sunset.png
   - _bookshop_name: hero
-    bg_image: /uploads/screenshot-2023-11-14-at-6-56-52-pm.png
+    bg_image: ''
     heading: Adam's Site
-    text: >-
-      A starter template for Astro, Tailwind and Bookshop. This template is
-      specifically set up to build with JSX components. Comes with a paginated
-      blog with tags.
+    text: I am running for manager of the toilet
     button:
       _bookshop_name: global/button
       path: /
